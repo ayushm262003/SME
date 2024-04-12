@@ -1,0 +1,188 @@
+﻿  main.cpp
+  CollisionService.cpp
+  ICollider.cpp
+  BunkerController.cpp
+  BunkerData.cpp
+  BunkerView.cpp
+  ElementService.cpp
+  SubzeroController.cpp
+  ThunderSnakeController.cpp
+  UFOController.cpp
+  ZapperController.cpp
+  EnemyController.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Player\PlayerModel.h(57,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'source/Enemy/EnemyController.cpp')
+  
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Enemy\EnemyController.cpp(53,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  EnemyModel.cpp
+  EnemyService.cpp
+  EnemyView.cpp
+  EventService.cpp
+  GameplayController.cpp
+  GameplayService.cpp
+  GameplayView.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Gameplay\GameplayView.cpp(23,26): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Gameplay\GameplayView.cpp(23,26): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Gameplay\GameplayView.cpp(23,26): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Gameplay\GameplayView.cpp(23,26): warning C4244:             T=unsigned int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Gameplay\GameplayView.cpp(23,26): warning C4244:         ]
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Gameplay\GameplayView.cpp(22,26): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Gameplay\GameplayView.cpp(22,26): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Gameplay\GameplayView.cpp(22,26): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Gameplay\GameplayView.cpp(22,26): warning C4244:             T=unsigned int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Gameplay\GameplayView.cpp(22,26): warning C4244:         ]
+  Config.cpp
+  Generating Code...
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Enemy\EnemyView.cpp(66,1): warning C4715: 'Enemy::EnemyView::getEnemyTexturePath': not all control paths return a value
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Enemy\EnemyService.cpp(91,1): warning C4715: 'Enemy::EnemyService::createEnemy': not all control paths return a value
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Enemy\Controller\ThunderSnakeController.cpp(39,1): warning C4715: 'Enemy::Controller::ThunderSnakeController::getInitialMovementDirection': not all control paths return a value
+  Compiling...
+  ServiceLocator.cpp
+  ParticleService.cpp
+  ParticleSystem.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(39,109): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(39,109): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(39,109): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(39,109): warning C4244:             T=int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(39,109): warning C4244:         ]
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(39,74): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(39,74): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(39,74): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(39,74): warning C4244:             T=int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(39,74): warning C4244:         ]
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(61,27): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(61,27): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(61,27): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(61,27): warning C4244:             T=int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(61,27): warning C4244:         ]
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(60,27): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(60,27): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(60,27): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(60,27): warning C4244:             T=int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(60,27): warning C4244:         ]
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(58,19): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(58,19): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(58,19): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(58,19): warning C4244:             T=int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleSystem.cpp(58,19): warning C4244:         ]
+  HighScore.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Gameplay\HighScore.h(17,6): warning C4091: 'static ': ignored on left of 'Gameplay::HighScore' when no variable is declared
+  (compiling source file 'source/Gameplay/HighScore.cpp')
+  
+  OutscalBombController.cpp
+  RapidFireController.cpp
+  ShieldController.cpp
+  TrippleLaserController.cpp
+  PowerupController.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Player\PlayerModel.h(57,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'source/Powerup/PowerupController.cpp')
+  
+  PowerupModel.cpp
+  PowerupService.cpp
+  PowerupView.cpp
+  SoundService.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Sound\SoundService.cpp(72,30): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  TimeService.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Time\TimeService.cpp(30,13): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Time\TimeService.cpp(30,13): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Time\TimeService.cpp(30,13): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Time\TimeService.cpp(30,13): warning C4244:             _Rep=__int64
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Time\TimeService.cpp(30,13): warning C4244:         ]
+  GameService.cpp
+  GraphicService.cpp
+  PlayerController.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Player\PlayerModel.h(57,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'source/Player/PlayerController.cpp')
+  
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Gameplay\HighScore.h(17,6): warning C4091: 'static ': ignored on left of 'Gameplay::HighScore' when no variable is declared
+  (compiling source file 'source/Player/PlayerController.cpp')
+  
+  PlayerModel.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Player\PlayerModel.h(57,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'source/Player/PlayerModel.cpp')
+  
+  PlayerService.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Player\PlayerModel.h(57,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'source/Player/PlayerService.cpp')
+  
+  PlayerView.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Player\PlayerModel.h(57,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'source/Player/PlayerView.cpp')
+  
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Player\PlayerController.h(20,19): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'source/Player/PlayerView.cpp')
+  
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Player\PlayerController.h(20,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'source/Player/PlayerView.cpp')
+  
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Player\PlayerController.h(20,32): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'source/Player/PlayerView.cpp')
+  
+  Generating Code...
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Powerup\PowerupView.cpp(59,1): warning C4715: 'Powerup::PowerupView::getPowerupTexturePath': not all control paths return a value
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Powerup\PowerupService.cpp(53,1): warning C4715: 'Powerup::PowerupService::createPowerup': not all control paths return a value
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\Particle\ParticleService.cpp(46,1): warning C4715: 'Particle::ParticleService::getParticleSystemConfig': not all control paths return a value
+  Compiling...
+  CreditsScreenUIController.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Credits\CreditsScreenUIController.cpp(64,123): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Credits\CreditsScreenUIController.cpp(64,123): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Credits\CreditsScreenUIController.cpp(64,123): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Credits\CreditsScreenUIController.cpp(64,123): warning C4244:             T=unsigned int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Credits\CreditsScreenUIController.cpp(64,123): warning C4244:         ]
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Credits\CreditsScreenUIController.cpp(64,97): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Credits\CreditsScreenUIController.cpp(64,97): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Credits\CreditsScreenUIController.cpp(64,97): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Credits\CreditsScreenUIController.cpp(64,97): warning C4244:             T=unsigned int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Credits\CreditsScreenUIController.cpp(64,97): warning C4244:         ]
+  GameplayUIController.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Player\PlayerModel.h(57,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'source/UI/GameplayUI/GameplayUIController.cpp')
+  
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\GameplayUI\GameplayUIController.cpp(46,129): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\GameplayUI\GameplayUIController.cpp(47,156): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  InstructionsScreenUIController.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Instructions\InstructionsScreenUIController.cpp(58,123): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Instructions\InstructionsScreenUIController.cpp(58,123): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Instructions\InstructionsScreenUIController.cpp(58,123): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Instructions\InstructionsScreenUIController.cpp(58,123): warning C4244:             T=unsigned int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Instructions\InstructionsScreenUIController.cpp(58,123): warning C4244:         ]
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Instructions\InstructionsScreenUIController.cpp(58,97): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Instructions\InstructionsScreenUIController.cpp(58,97): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Instructions\InstructionsScreenUIController.cpp(58,97): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Instructions\InstructionsScreenUIController.cpp(58,97): warning C4244:             T=unsigned int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\Instructions\InstructionsScreenUIController.cpp(58,97): warning C4244:         ]
+  MainMenuUIController.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\header\Gameplay\HighScore.h(17,6): warning C4091: 'static ': ignored on left of 'Gameplay::HighScore' when no variable is declared
+  (compiling source file 'source/UI/MainMenu/MainMenuUIController.cpp')
+  
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\MainMenu\MainMenuUIController.cpp(63,123): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\MainMenu\MainMenuUIController.cpp(63,123): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\MainMenu\MainMenuUIController.cpp(63,123): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\MainMenu\MainMenuUIController.cpp(63,123): warning C4244:             T=unsigned int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\MainMenu\MainMenuUIController.cpp(63,123): warning C4244:         ]
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\MainMenu\MainMenuUIController.cpp(63,97): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\MainMenu\MainMenuUIController.cpp(63,97): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\MainMenu\MainMenuUIController.cpp(63,97): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\MainMenu\MainMenuUIController.cpp(63,97): warning C4244:             T=unsigned int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\MainMenu\MainMenuUIController.cpp(63,97): warning C4244:         ]
+  AnimatedImageView.cpp
+  ButtonView.cpp
+  ImageView.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\ImageView.cpp(49,113): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\ImageView.cpp(49,113): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\ImageView.cpp(49,113): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\ImageView.cpp(49,113): warning C4244:             T=unsigned int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\ImageView.cpp(49,113): warning C4244:         ]
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\ImageView.cpp(49,73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\ImageView.cpp(49,73): warning C4244:         with
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\ImageView.cpp(49,73): warning C4244:         [
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\ImageView.cpp(49,73): warning C4244:             T=unsigned int
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\ImageView.cpp(49,73): warning C4244:         ]
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\ImageView.cpp(78,23): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+  RectangleShapeView.cpp
+D:\offCampus interns\aaa\SME-Assignment-master\Space-Invaders\source\UI\UIElement\RectangleShapeView.cpp(59,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TextView.cpp
+  UIView.cpp
+  UIService.cpp
+  SplashScreenUIController.cpp
+  Generating Code...
